@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:5dfe3d2f-13de-4aa2-bfed-0ecee81a676d",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2023-10-11T13:38:23.904Z",
+    "tools": [
+      {
+        "vendor": "Securin Inc.",
+        "name": "AppSec",
+        "version": "0.1.0"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Securin Team",
+        "email": "aspm@securin.io"
+      }
+    ]
+  },
+  "components": [
+    {
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "x",
+      "version": "1.0.0",
+      "description": "",
+      "licenses": [],
+      "purl": "pkg:nuget/x@1.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/x@1.0.0"
+    }
+  ],
+  "services": [],
+  "dependencies": []
+}

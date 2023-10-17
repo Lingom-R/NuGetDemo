@@ -1,0 +1,50 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:05a52a6c-eba1-4465-9024-d92d894051e8",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2023-10-16T15:04:41.017Z",
+    "tools": [
+      {
+        "vendor": "Securin Inc.",
+        "name": "AppSec",
+        "version": "0.1.0"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Securin Team",
+        "email": "aspm@securin.io"
+      }
+    ]
+  },
+  "components": [
+    {
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "SkiaSharp",
+      "version": "2.88.4",
+      "description": "",
+      "licenses": [],
+      "purl": "pkg:nuget/SkiaSharp@2.88.4",
+      "type": "library",
+      "bom-ref": "pkg:nuget/SkiaSharp@2.88.4"
+    },
+    {
+      "author": "",
+      "publisher": "",
+      "group": "",
+      "name": "Vanguard",
+      "version": "5.0.0",
+      "description": "",
+      "licenses": [],
+      "purl": "pkg:nuget/Vanguard@5.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Vanguard@5.0.0"
+    }
+  ],
+  "services": [],
+  "dependencies": []
+}
